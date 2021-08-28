@@ -1,0 +1,14 @@
+1 Buenas, EL ARCHVO EJECUTABLE ESTA EN LA CARPETA DIST Y ES REGISTRAR TIENE UN ICONO DE UNA TAZA POR  SI NO LO ENCUENTRA.
+
+2 LA BASE DE DATOS SE LLAMA :    navyportans
+
+3 Para el inicio de sesion puede registrarse asi prueba los dos. 
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+Espero que le guste.

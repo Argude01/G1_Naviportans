@@ -1,0 +1,1 @@
+1: comenzar con la pantalla registrar.py
